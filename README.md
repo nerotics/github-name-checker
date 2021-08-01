@@ -4,8 +4,6 @@ Github username checker, checks if a name is used or not
 ## Note
 If all names appear invalid, you may be rate-limited as there is no proxy system yet. Use a VPN or wait. 
 
-Credits to [Matty](https://github.com/MattyTM) for file creation
-
 ## To do
 - [ ] Proxy Support
 - [ ] Threading system
