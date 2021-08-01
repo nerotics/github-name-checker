@@ -7,9 +7,9 @@ If all names appear invalid, you may be rate-limited as there is no proxy system
 Credits to [Matty](https://github.com/MattyTM) for file creation
 
 ## To do
-- [] Proxy Support
-- [] Threading system
-- [] Output names to a file
+- [ ] Proxy Support
+- [ ] Threading system
+- [ ] Output names to a file
 
 
 # Usage
